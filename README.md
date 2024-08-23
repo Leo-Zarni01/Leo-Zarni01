@@ -1,5 +1,4 @@
-### Hello there I'm Leo!
-# 💫 About Me:
+# 💫 Greetings traveler, from beyond the fog:
 23 year old Software Engineer from Sydney, Australia<br>Studied Computer Science at the University of New South Wales, Australia<br>Interested in learning more about Front-end & mobile app development<br><br>
 
 
