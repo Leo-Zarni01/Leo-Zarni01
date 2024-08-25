@@ -2,6 +2,7 @@
 Sydney-based software engineer with a CS degree from UNSW, passionate about front-end and mobile app development.
 <div align="center">
 	<img src = "https://github.com/Leo-Zarni01/Leo-Zarni01/blob/main/gojo.gif?raw=true">
+	<p>My honest reaction to your opinion</p>
 </div>
 
 ## 🌐 Socials:
